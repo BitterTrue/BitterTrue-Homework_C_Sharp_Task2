@@ -1,0 +1,15 @@
+E:\учёба\Homework C Sharp 2\bin\Debug\net7.0\Homework C Sharp 2.exe
+E:\учёба\Homework C Sharp 2\bin\Debug\net7.0\Homework C Sharp 2.deps.json
+E:\учёба\Homework C Sharp 2\bin\Debug\net7.0\Homework C Sharp 2.runtimeconfig.json
+E:\учёба\Homework C Sharp 2\bin\Debug\net7.0\Homework C Sharp 2.dll
+E:\учёба\Homework C Sharp 2\bin\Debug\net7.0\Homework C Sharp 2.pdb
+E:\учёба\Homework C Sharp 2\obj\Debug\net7.0\Homework C Sharp 2.csproj.AssemblyReference.cache
+E:\учёба\Homework C Sharp 2\obj\Debug\net7.0\Homework C Sharp 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\учёба\Homework C Sharp 2\obj\Debug\net7.0\Homework C Sharp 2.AssemblyInfoInputs.cache
+E:\учёба\Homework C Sharp 2\obj\Debug\net7.0\Homework C Sharp 2.AssemblyInfo.cs
+E:\учёба\Homework C Sharp 2\obj\Debug\net7.0\Homework C Sharp 2.csproj.CoreCompileInputs.cache
+E:\учёба\Homework C Sharp 2\obj\Debug\net7.0\Homework C Sharp 2.dll
+E:\учёба\Homework C Sharp 2\obj\Debug\net7.0\refint\Homework C Sharp 2.dll
+E:\учёба\Homework C Sharp 2\obj\Debug\net7.0\Homework C Sharp 2.pdb
+E:\учёба\Homework C Sharp 2\obj\Debug\net7.0\Homework C Sharp 2.genruntimeconfig.cache
+E:\учёба\Homework C Sharp 2\obj\Debug\net7.0\ref\Homework C Sharp 2.dll
